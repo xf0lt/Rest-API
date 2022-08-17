@@ -15,14 +15,14 @@
       }
    },
    {
-      "nama" : " dedek iswan",
+      "nama" : "mahasiswa 1",
       "umur" : 21,
-      "nrp"  : "2121212",
+      "nrp"  : "2121989",
       "lulus": true,
       "hobby" : [
          "coding",
-         "turu",
-         "nonton"
+         "ngmil",
+         "wibu"
       ],
       "pembimbing": {
          "pembimbing1" : "sandika galih",

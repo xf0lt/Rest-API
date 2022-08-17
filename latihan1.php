@@ -1,4 +1,5 @@
 <?php 
+
    $mahasiswa = [
       [
          "nama" => "mahasiswa 1",
@@ -12,7 +13,7 @@
       ],
    ];
 
-$data = json_encode($mahasiswa);
-echo $data
+   $data = json_encode($mahasiswa);
+      echo $data
 
 ?>
