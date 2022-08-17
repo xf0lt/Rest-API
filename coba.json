@@ -1,0 +1,32 @@
+[
+   {
+      "nama" : " dedek iswan",
+      "umur" : 21,
+      "nrp"  : "2121212",
+      "lulus": true,
+      "hobby" : [
+         "coding",
+         "turu",
+         "nonton"
+      ],
+      "pembimbing": {
+         "pembimbing1" : "sandika galih",
+         "pembimbing2" : "erik kurniawan"
+      }
+   },
+   {
+      "nama" : " dedek iswan",
+      "umur" : 21,
+      "nrp"  : "2121212",
+      "lulus": true,
+      "hobby" : [
+         "coding",
+         "turu",
+         "nonton"
+      ],
+      "pembimbing": {
+         "pembimbing1" : "sandika galih",
+         "pembimbing2" : "erik kurniawan"
+      }
+   }
+]
